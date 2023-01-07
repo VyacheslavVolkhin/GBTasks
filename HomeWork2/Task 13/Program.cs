@@ -1,11 +1,6 @@
 ﻿using static System.Console;
 Clear();
-WriteLine("Введите число не больше 999: ");
+WriteLine("Введите любое число: ");
 int number = int.Parse(ReadLine()!);
 
-while (number>999) {
-    WriteLine("Введите число не больше 999: ");
-    number = int.Parse(ReadLine()!);
-}
-
-WriteLine(number>99?$"Третья цифра в этом числе {number%10}":"Третьей цифры нет ((");
+WriteLine(number>99?$"Третья цифра с конца в этом числе {(number/100)%10}":"Третьей цифры нет ((");
