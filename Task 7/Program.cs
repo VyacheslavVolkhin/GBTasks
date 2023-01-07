@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using static System.Console;
+
+WriteLine("Enter digit");
+int a = int.Parse(ReadLine()!);
+
+WriteLine(a%100);
