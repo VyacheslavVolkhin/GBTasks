@@ -1,0 +1,15 @@
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/bin/Debug/net6.0/Task 7
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/bin/Debug/net6.0/Task 7.deps.json
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/bin/Debug/net6.0/Task 7.runtimeconfig.json
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/bin/Debug/net6.0/Task 7.dll
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/bin/Debug/net6.0/Task 7.pdb
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/obj/Debug/net6.0/Task 7.csproj.AssemblyReference.cache
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/obj/Debug/net6.0/Task 7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/obj/Debug/net6.0/Task 7.AssemblyInfoInputs.cache
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/obj/Debug/net6.0/Task 7.AssemblyInfo.cs
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/obj/Debug/net6.0/Task 7.csproj.CoreCompileInputs.cache
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/obj/Debug/net6.0/Task 7.dll
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/obj/Debug/net6.0/refint/Task 7.dll
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/obj/Debug/net6.0/Task 7.pdb
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/obj/Debug/net6.0/Task 7.genruntimeconfig.cache
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/Task 7/obj/Debug/net6.0/ref/Task 7.dll
