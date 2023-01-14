@@ -1,0 +1,15 @@
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/obj/Debug/net6.0/Task 29.csproj.AssemblyReference.cache
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/obj/Debug/net6.0/Task 29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/obj/Debug/net6.0/Task 29.AssemblyInfoInputs.cache
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/obj/Debug/net6.0/Task 29.AssemblyInfo.cs
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/obj/Debug/net6.0/Task 29.csproj.CoreCompileInputs.cache
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/bin/Debug/net6.0/Task 29
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/bin/Debug/net6.0/Task 29.deps.json
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/bin/Debug/net6.0/Task 29.runtimeconfig.json
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/bin/Debug/net6.0/Task 29.dll
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/bin/Debug/net6.0/Task 29.pdb
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/obj/Debug/net6.0/Task 29.dll
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/obj/Debug/net6.0/refint/Task 29.dll
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/obj/Debug/net6.0/Task 29.pdb
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/obj/Debug/net6.0/Task 29.genruntimeconfig.cache
+/Users/vaceslavvolhin/Learn/GBTasks/GBTasks/HomeWork4/Task 29/obj/Debug/net6.0/ref/Task 29.dll
